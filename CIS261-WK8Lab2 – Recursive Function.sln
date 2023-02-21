@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "CIS261-WK8Lab2 – Recursive Function", "CIS261-WK8Lab2 – Recursive Function.pyproj", "{1AD31BC7-3C02-4059-8BE0-D12889BD1999}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1AD31BC7-3C02-4059-8BE0-D12889BD1999}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AD31BC7-3C02-4059-8BE0-D12889BD1999}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {59021A5B-7A6C-486A-A0E1-ABB6D3E90C57}
+	EndGlobalSection
+EndGlobal
